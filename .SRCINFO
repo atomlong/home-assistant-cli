@@ -16,6 +16,7 @@ pkgbase = home-assistant-cli
 	depends = python-regex
 	depends = python-netdisco
 	depends = python-dateparser
+	depends = python-jsonpath-ng
 	source = https://github.com/home-assistant/home-assistant-cli/archive/0.9.4.tar.gz
 	sha256sums = 0ec8b52fc3e21b3277a0d0038e1beca4b51c2d035783cca08b472cb38263c908
 
